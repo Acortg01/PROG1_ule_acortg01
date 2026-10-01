@@ -8,6 +8,7 @@ anacardo https://dle.rae.es/anacardo
 osteoporosis https://dle.rae.es/osteoporosis
 enchufe https://dle.rae.es/enchufe
 cuatro https://dle.rae.es/cuatro
+cinco https://dle.rae.es/cinco
 
 zarigüeya https://dle.rae.es/zarig%C3%BCeya
 aceituna https://dle.rae.es/aceituna
