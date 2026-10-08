@@ -1,0 +1,11 @@
+Practica P-VAR
+
+Bloque: Tipos de datos basicos
+Ejercicio: 04
+
+Descripcion: Formato decimales
+
+
+2.8 - 1.5 = 1.2999999999999998
+
+El resultado de la resta da ese número sin aproximar en vez de 1.30, porque el double en binario de 2.8 no existe en si entonces la máquina coje la fracción 1/3, por el contrario 1.5 si que tiene interpretación en binario "1+1/2", y al hacer la resta ese es el resultado que da.
