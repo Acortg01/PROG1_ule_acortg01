@@ -6,4 +6,4 @@ Short : -32766
 Int   : -2147483646
 f: 1.3E22
 
-En mi caso no se presentó ningún error de compilación.
+El error de compilación que aparecía era debido a un float que no tenía su "f" correspondiente, "float f = 1.3e22f;". Por lo demás, se ha corregido en "int i = (int)2147483650L;" la "l" por "L".
